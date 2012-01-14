@@ -1,5 +1,6 @@
 #Ruby on Rails Tutorial: first application
 Author: Nassir S  
+Version: 1
 
 == Welcome to Rails
 
