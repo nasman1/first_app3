@@ -1,5 +1,5 @@
 #Ruby on Rails Tutorial: first application
-Author: Nassir S
+Author: Nassir 
 
 == Welcome to Rails
 
